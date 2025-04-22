@@ -14,7 +14,7 @@
 ### 📂 Projects & Contact
 
 - All of my projects are available at **[github.com/ml7s](https://github.com/ml7s)**
-- Reach me on Discord: **ct_**
+- Reach me on Instagram: **kw81**
 
 ---
 
