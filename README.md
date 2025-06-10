@@ -14,7 +14,7 @@
 ### 📂 Projects & Contact
 
 - All of my projects are available at **[github.com/ml7s](https://github.com/ml7s)**
-- Reach me on Instagram: **kw81**
+- Reach me on Instagram: **turki.cs**
 
 ---
 
