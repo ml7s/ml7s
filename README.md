@@ -10,9 +10,6 @@ I build systems, APIs, and things that need to be solid, fast, and correct.
 ### About
 Into backend, systems, and low-level logic.  
 I care about how things work under the hood, performance, and not writing sloppy code.
-
-UI is secondary. Logic comes first.
-
 ---
 
 ### Tech I Actually Use
